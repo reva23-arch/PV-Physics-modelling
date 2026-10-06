@@ -52,10 +52,10 @@ $$
 
 where:
 
-- \P\ is predicted AC power
-- \G\ is POA irradiance
-- \P_0\ is the fitted intercept
-- \k\ is the fitted irradiance coefficient
+- \(P\) is predicted AC power
+- \(G\) is POA irradiance
+- \(P_0\) is the fitted intercept
+- \(k\) is the fitted irradiance coefficient
 
 ### 2. Physics-informed model
 
@@ -69,7 +69,7 @@ where:
 
 - \(T\) is module temperature
 - \(T_{ref}\) is the reference temperature
-- \(\beta\) is the fitted temperature coefficient
+- \(beta\) is the fitted temperature coefficient
 - \(G\) is POA irradiance
 
 A reference temperature of 25°C was used.
