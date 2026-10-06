@@ -52,10 +52,10 @@ $$
 
 where:
 
-- \(P\) is predicted AC power
-- \(G\) is POA irradiance
-- \(P_0\) is the fitted intercept
-- \(k\) is the fitted irradiance coefficient
+- \P\ is predicted AC power
+- \G\ is POA irradiance
+- \P_0\ is the fitted intercept
+- \k\ is the fitted irradiance coefficient
 
 ### 2. Physics-informed model
 
